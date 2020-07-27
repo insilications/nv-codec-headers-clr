@@ -1,4 +1,4 @@
-PREFIX = /usr/local
+PREFIX = /usr
 LIBDIR = lib
 INSTALL = install
 SED = sed
